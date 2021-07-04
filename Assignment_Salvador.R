@@ -1,0 +1,5 @@
+print ("Hello! My name is Lester Niel S. Salvador.")
+print ("I am  18 years old and currently residing in Quezon City.")
+print ("I am a sophomore from Ateneo de Manila University taking up BS Electronics Engineering.")
+print ("I am a very random person and loves iced coffee.")
+print ("During my free time, I am watching Korean Dramas and not letting myself being late with the new series.")
